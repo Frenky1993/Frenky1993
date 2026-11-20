@@ -75,3 +75,11 @@ Mi interessano i progetti che risolvono problemi concreti: rendere un processo c
 Parto dal problema operativo, chiarisco il risultato atteso e verifico che la soluzione funzioni nel contesto in cui verrà utilizzata.
 
 </details>
+
+---
+
+<p align="center">
+  <img src="./assets/dragon-signature.png" alt="Drago stilizzato viola e turchese, firma personale di Simone Capparucci" width="148" />
+  <br />
+  <sub><em>I am a Dragon</em></sub>
+</p>
