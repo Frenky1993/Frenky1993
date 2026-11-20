@@ -46,6 +46,10 @@ Il mio lavoro si concentra sul collegamento tra **persone, attività aziendali e
   </tr>
 </table>
 
+<p align="center">
+  <img src="./assets/skills-technologies.png" alt="Competenze e tecnologie: Odoo, Data Analysis, GitHub, API e Integrazioni, AI e Automazione" width="100%" />
+</p>
+
 ## 🛠 Ambiti di lavoro
 
 | Ambito | Attività |
