@@ -54,6 +54,19 @@ Il mio lavoro si concentra sul collegamento tra **persone, attività aziendali e
 | **Analisi e reporting** | Excel, dashboard, KPI e qualità dei dati. |
 | **Organizzazione degli sviluppi** | Raccolta delle richieste, specifiche funzionali, test e tracciamento delle attività. |
 
+
+## 📈 Attività su GitHub
+
+<p align="center">
+  <a href="https://github.com/Frenky1993?tab=repositories">
+    <img src="https://github-stats-extended.vercel.app/api?username=Frenky1993&amp;show_icons=true&amp;hide_rank=true&amp;bg_color=0D1117&amp;title_color=C890E8&amp;icon_color=67DDE5&amp;text_color=E6EDF3&amp;border_color=303B4C&amp;border_radius=12&amp;locale=it&amp;custom_title=Statistiche%20GitHub&amp;show=reviews&amp;role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&amp;card_width=640&amp;disable_animations=true&amp;include_all_commits=true" alt="Statistiche pubbliche GitHub di Simone Capparucci: stelle, commit, pull request, revisioni, segnalazioni e contributi" width="640" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Statistiche dell’attività pubblica su GitHub.</sub>
+</p>
+
 <details>
   <summary><strong>🔎 Cosa trovi nel mio lavoro</strong></summary>
 
